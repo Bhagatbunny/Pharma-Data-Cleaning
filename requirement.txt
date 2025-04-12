@@ -1,0 +1,14 @@
+apache-airflow
+apache-airflow-providers-amazon
+pyspark
+awscli
+boto3
+nsetools
+python-dotenv
+
+pandas
+psycopg2 
+numpy 
+yfinance 
+psycopg2-binary 
+SQLAlchemy 
